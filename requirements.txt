@@ -1,0 +1,7 @@
+transformers
+torch
+nltk
+sumy
+flask
+pdfplumber
+streamlit
